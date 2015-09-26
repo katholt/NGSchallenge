@@ -1,0 +1,69 @@
+ID	Organism	BioProject	SRR	Description
+ASM_01	Salmonella Enteritidis	PRJNA295366	SRR2352185	"environmental swab, state #1, site #1"
+ASM_02	Salmonella Enteritidis	PRJNA295366	SRR2352186	"environmental swab, state #1, site #1"
+ASM_03	Salmonella Enteritidis	PRJNA295366	SRR2352187	"environmental swab, state #1, site #1"
+ASM_04	Salmonella Enteritidis	PRJNA295366	SRR2352188	"environmental swab, state #1, site #1"
+ASM_05	Salmonella Enteritidis	PRJNA295366	SRR2352189	"environmental swab, state #1, site #1"
+ASM_06	Salmonella Enteritidis	PRJNA295366	SRR2352190	"chicken feed, state #2, site #1"
+ASM_07	Salmonella Enteritidis	PRJNA295366	SRR2352191	"environmental swab, state #2, site #2"
+ASM_08	Salmonella Enteritidis	PRJNA295366	SRR2352192	"environmental swab, state #2, site #3"
+ASM_09	Salmonella Enteritidis	PRJNA295366	SRR2352193	"environmental swab, state #2, site #1"
+ASM_10	Salmonella Enteritidis	PRJNA295366	SRR2352194	"environmental swab, state #2, site #1"
+ASM_11	Salmonella Enteritidis	PRJNA295366	SRR2352195	"environmental swab, state #2, site #1"
+ASM_12	Salmonella Enteritidis	PRJNA295366	SRR2352196	"environmental swab, state #2, site #1"
+ASM_13	Salmonella Enteritidis	PRJNA295366	SRR2352197	"environmental swab, state #2, site #2"
+ASM_14	Salmonella Enteritidis	PRJNA295366	SRR2352198	"environmental swab, state #2 , site #3"
+ASM_15	Salmonella Enteritidis	PRJNA295366	SRR2352199	"eggs, state #2, site #3"
+ASM_16	Salmonella Enteritidis	PRJNA295366	SRR2352200	"environmental swab, state #2 , site #4"
+ASM_17	Salmonella Enteritidis	PRJNA295366	SRR2352201	"environmental swab, state #2, site #2"
+ASM_18	Salmonella Enteritidis	PRJNA295366	SRR2352202	"chicken feed, state #2, site #1"
+ASM_19	Salmonella Enteritidis	PRJNA295366	SRR2352203	"environmental swab, state #1, site #1"
+ASM_20	Salmonella Enteritidis	PRJNA295366	SRR2352204	"environmental swab, state #1, site #1"
+ASM_21	Salmonella Enteritidis	PRJNA295366	SRR2352205	"environmental swab, state #1, site #1"
+ASM_22	Salmonella Enteritidis	PRJNA295366	SRR2352206	"environmental swab, state #1, site #1"
+ASM_23	Salmonella Enteritidis	PRJNA295366	SRR2352207	"environmental swab, state #1, site #1"
+ASM_24	Salmonella Enteritidis	PRJNA295366	SRR2352208	"environmental swab, state #1, site #1"
+ASM_25	Salmonella Enteritidis	PRJNA295366	SRR2352209	"food, traceback to eggs from state #2"
+ASM_26	Salmonella Enteritidis	PRJNA295366	SRR2352210	"clinical, consumed food with ASM_40 isolate"
+ASM_27	Salmonella Enteritidis	PRJNA295366	SRR2352211	clinical
+ASM_28	Salmonella Enteritidis	PRJNA295366	SRR2352212	clinical
+ASM_29	Salmonella Enteritidis	PRJNA295366	SRR2352213	clinical
+ASM_30	Salmonella Enteritidis	PRJNA295366	SRR2352214	clinical
+ASM_31	Salmonella Enteritidis	PRJNA295366	SRR2352215	"clinical, traceback to eggs from state #2"
+ASM_32	Salmonella Enteritidis	PRJNA295366	SRR2352216	clinical
+ASM_33	Salmonella Enteritidis	PRJNA295366	SRR2352217	clinical
+ASM_34	Salmonella Enteritidis	PRJNA295366	SRR2352218	pastuerized eggs
+ASM_35	Salmonella Enteritidis	PRJNA295366	SRR2352219	clinical
+ASM_36	Salmonella Enteritidis	PRJNA295366	SRR2352220	clinical
+ASM_37	Salmonella Enteritidis	PRJNA295366	SRR2352221	clinical
+ASM_38	Salmonella Enteritidis	PRJNA295366	SRR2352222	clinical
+ASM_39	Salmonella Enteritidis	PRJNA295366	SRR2352223	clinical
+ASM_40	Salmonella Enteritidis	PRJNA295366	SRR2352224	pastuerized eggs
+ASM_41	Salmonella Enteritidis	PRJNA295366	SRR2352225	clinical
+ASM_42	Salmonella Enteritidis	PRJNA295366	SRR2352226	clinical
+ASM_43	Salmonella Enteritidis	PRJNA295366	SRR2352227	clinical
+ASM_44	Salmonella Enteritidis	PRJNA295366	SRR2352228	clinical
+ASM_45	Salmonella Enteritidis	PRJNA295366	SRR2352229	clinical
+ASM_46	Salmonella Enteritidis	PRJNA295366	SRR2352230	clinical
+ASM_47	Salmonella Enteritidis	PRJNA295366	SRR2352231	clinical
+ASM_48	Salmonella Enteritidis	PRJNA295366	SRR2352232	clinical
+ASM_49	Salmonella Enteritidis	PRJNA295366	SRR2352233	"clinical, traceback to eggs from state #2"
+ASM_50	Salmonella Enteritidis	PRJNA295366	SRR2352234	"clinical, traceback to eggs from state #2"
+ASM_51	Listeria monocytogenes	PRJNA295367	SRR2352235	"environmental swab, facility #2"
+ASM_52	Listeria monocytogenes	PRJNA295367	SRR2352236	"environmental swab, facility #2"
+ASM_53	Listeria monocytogenes	PRJNA295367	SRR2352237	"food,facility #1"
+ASM_54	Listeria monocytogenes	PRJNA295367	SRR2352238	"food,facility #1"
+ASM_55	Listeria monocytogenes	PRJNA295367	SRR2352239	"environmental swab, facility #1"
+ASM_56	Listeria monocytogenes	PRJNA295367	SRR2352240	"environmental swab, facility #1"
+ASM_57	Listeria monocytogenes	PRJNA295367	SRR2352241	"environmental swab, facility #1"
+ASM_58	Listeria monocytogenes	PRJNA295367	SRR2352242	"environmental swab, facility #1"
+ASM_59	Listeria monocytogenes	PRJNA295367	SRR2352243	"environmental swab, facility #1"
+ASM_60	Listeria monocytogenes	PRJNA295367	SRR2352244	"environmental swab, facility #1"
+ASM_61	Listeria monocytogenes	PRJNA295367	SRR2352245	"environmental swab, facility #1"
+ASM_62	Listeria monocytogenes	PRJNA295367	SRR2352246	"environmental swab, facility #1"
+ASM_63	Listeria monocytogenes	PRJNA295367	SRR2352247	"environmental swab, facility #1"
+ASM_64	Listeria monocytogenes	PRJNA295367	SRR2352248	"environmental swab, facility #1"
+ASM_65	Listeria monocytogenes	PRJNA295367	SRR2352249	"environmental swab, facility #1"
+ASM_66	Listeria monocytogenes	PRJNA295367	SRR2352250	"environmental swab, facility #1"
+ASM_67	Listeria monocytogenes	PRJNA295367	SRR2352251	"food,facility #1"
+ASM_68	Listeria monocytogenes	PRJNA295367	SRR2352252	"food,facility #1"
